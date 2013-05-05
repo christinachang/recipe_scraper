@@ -1,0 +1,1 @@
+This is a script that uses Nokogiri and Postmark gems to scrape and email the recipe of the day from Epicurious.com.
